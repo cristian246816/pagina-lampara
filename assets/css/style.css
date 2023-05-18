@@ -1,0 +1,42 @@
+body {
+  font-family: "Verdana";
+}
+
+.header {
+  height: 20%;
+  padding: 3%;
+  font-size: 2em;
+  background-image: url("../imgs/fondo_definitivo.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.header h1 {
+  margin: 0px;
+  font-weight: 600;
+}
+
+.products {
+  width: 80%;
+  margin: auto;
+}
+
+.products td {
+height: 5em;
+width: 50%;
+padding: 2em;
+  }
+
+.products img {
+width: 70%;
+border: solid 2px #c4ec65;
+}
+
+.footer {
+height: 3em;
+line-height: 3em;    
+background-color: rgb(67, 177, 204);
+color: white;
+text-align: center;
+font-weight: 900;
+}
